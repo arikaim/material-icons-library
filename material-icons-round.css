@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Material+Icons+Round');
+
+.material-icons-round.md-18 { 
+    font-size: 18px; 
+}
+.material-icons-round.md-24 { 
+    font-size: 24px; 
+}
+.material-icons-round.md-36 { 
+    font-size: 36px; 
+}
+.material-icons-round.md-48 { 
+    font-size: 48px; 
+}
+.material-icons-round.md-dark { 
+    color: rgba(0, 0, 0, 0.54); 
+}
+.material-icons-round.md-dark.md-inactive { 
+    color: rgba(0, 0, 0, 0.26); 
+}
+.material-icons-round.md-light { 
+    color: rgb(226, 123, 123); 
+}
+.material-icons-round.md-light.md-inactive { 
+    color: rgba(255, 255, 255, 0.3); 
+}

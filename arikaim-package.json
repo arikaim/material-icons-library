@@ -1,0 +1,28 @@
+{
+    "title": "Material Icons",
+    "package-type": "library",
+    "name": "material-icons",
+    "version": "1.0.0",
+    "description": "Google Material icons",
+    "repository": "https://github.com/arikaim/material-icons-library.git",
+    "files": [
+        "material-icons.css"
+    ],
+    "versions": {   
+       "outline": {
+           "files" : [
+                "material-icons-outline.css"
+           ] 
+        },
+        "round": {
+            "files" : [
+                "material-icons-round.css"
+            ] 
+        },
+        "two": {
+            "files" : [
+                "material-icons-two.css"
+            ] 
+        }
+    }
+}

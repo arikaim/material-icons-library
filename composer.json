@@ -1,0 +1,17 @@
+{
+    "name": "arikaim/material-icons-library",
+    "description": "Arikaim CMS Material icons library",
+    "keywords": ["UI", "Arikam CMS Material icons library","Arikaim"],
+    "type": "arikaim-library",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Konstantin Atanasov",
+        "email": "info@arikaim.com",
+        "homepage": "http://arikaim.com"
+    }],
+    "require": {
+    },
+    "extra": {
+        "path": "material-icons"
+    }
+}
